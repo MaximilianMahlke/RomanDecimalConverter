@@ -4,6 +4,7 @@
 INT for decimal to roman 
 or 
 STRING for roman to decimal
- 
 
+Decimals > 50.000 possible.
+Developed and tested with PyCharm.
 

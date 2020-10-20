@@ -5,5 +5,5 @@ INT for decimal to roman
 or 
 STRING for roman to decimal
  
-Maxsize of decimal (theoretically) = 9.223.372.036.854.775.806 (~9.2 quintillion)
+
 
